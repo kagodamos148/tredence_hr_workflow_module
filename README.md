@@ -4,6 +4,10 @@ Design and implement a mini–HR Workflow Designer module where an HR admin can 
 
 **Architecture**
 
-**Design choice**
+**Design choice/decisions**
 
 **Assumptions**
+
+**How to run**
+
+**What they completed vs. what they would add with more time**
